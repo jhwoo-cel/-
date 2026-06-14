@@ -1,0 +1,1284 @@
+{
+  "metadata": {
+    "created": "2026-05-05T01:03:45.718436",
+    "grid": {
+      "width": 60,
+      "height": 40
+    },
+    "cell_size_unit": 1,
+    "id_format": {
+      "wh": "{product}_{zone}_{section}_{part}_{rack_type}_{slot}",
+      "ml": "{product}_{zone}_{part}_{rack_type}{slot}",
+      "ps": "{product}_{zone}_{amr_type}_{slot}"
+    },
+    "rack_type_legend": {
+      "O": "O",
+      "X": "X"
+    },
+    "ml_node_type_legend": {
+      "R": "Recall",
+      "P": "Process"
+    },
+    "total_regions": 1,
+    "total_wh_nodes": 24,
+    "total_ml_nodes": 9,
+    "total_ps_nodes": 3
+  },
+  "regions": [
+    {
+      "id": "region_1",
+      "name": "Manufacturing Line",
+      "type": "Manufacturing Line",
+      "color": "#F0F0F0",
+      "cell_count": 72,
+      "bounding_box": {
+        "x_min": 3,
+        "y_min": 25,
+        "x_max": 38,
+        "y_max": 26,
+        "width": 36,
+        "height": 2
+      },
+      "cells": [
+        [
+          3,
+          25
+        ],
+        [
+          3,
+          26
+        ],
+        [
+          4,
+          25
+        ],
+        [
+          4,
+          26
+        ],
+        [
+          5,
+          25
+        ],
+        [
+          5,
+          26
+        ],
+        [
+          6,
+          25
+        ],
+        [
+          6,
+          26
+        ],
+        [
+          7,
+          25
+        ],
+        [
+          7,
+          26
+        ],
+        [
+          8,
+          25
+        ],
+        [
+          8,
+          26
+        ],
+        [
+          9,
+          25
+        ],
+        [
+          9,
+          26
+        ],
+        [
+          10,
+          25
+        ],
+        [
+          10,
+          26
+        ],
+        [
+          11,
+          25
+        ],
+        [
+          11,
+          26
+        ],
+        [
+          12,
+          25
+        ],
+        [
+          12,
+          26
+        ],
+        [
+          13,
+          25
+        ],
+        [
+          13,
+          26
+        ],
+        [
+          14,
+          25
+        ],
+        [
+          14,
+          26
+        ],
+        [
+          15,
+          25
+        ],
+        [
+          15,
+          26
+        ],
+        [
+          16,
+          25
+        ],
+        [
+          16,
+          26
+        ],
+        [
+          17,
+          25
+        ],
+        [
+          17,
+          26
+        ],
+        [
+          18,
+          25
+        ],
+        [
+          18,
+          26
+        ],
+        [
+          19,
+          25
+        ],
+        [
+          19,
+          26
+        ],
+        [
+          20,
+          25
+        ],
+        [
+          20,
+          26
+        ],
+        [
+          21,
+          25
+        ],
+        [
+          21,
+          26
+        ],
+        [
+          22,
+          25
+        ],
+        [
+          22,
+          26
+        ],
+        [
+          23,
+          25
+        ],
+        [
+          23,
+          26
+        ],
+        [
+          24,
+          25
+        ],
+        [
+          24,
+          26
+        ],
+        [
+          25,
+          25
+        ],
+        [
+          25,
+          26
+        ],
+        [
+          26,
+          25
+        ],
+        [
+          26,
+          26
+        ],
+        [
+          27,
+          25
+        ],
+        [
+          27,
+          26
+        ],
+        [
+          28,
+          25
+        ],
+        [
+          28,
+          26
+        ],
+        [
+          29,
+          25
+        ],
+        [
+          29,
+          26
+        ],
+        [
+          30,
+          25
+        ],
+        [
+          30,
+          26
+        ],
+        [
+          31,
+          25
+        ],
+        [
+          31,
+          26
+        ],
+        [
+          32,
+          25
+        ],
+        [
+          32,
+          26
+        ],
+        [
+          33,
+          25
+        ],
+        [
+          33,
+          26
+        ],
+        [
+          34,
+          25
+        ],
+        [
+          34,
+          26
+        ],
+        [
+          35,
+          25
+        ],
+        [
+          35,
+          26
+        ],
+        [
+          36,
+          25
+        ],
+        [
+          36,
+          26
+        ],
+        [
+          37,
+          25
+        ],
+        [
+          37,
+          26
+        ],
+        [
+          38,
+          25
+        ],
+        [
+          38,
+          26
+        ]
+      ]
+    }
+  ],
+  "wh_locations": [
+    {
+      "location_id": "A_WH_F_a_O_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 3,
+        "y": 20
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_F_a_O_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 4,
+        "y": 20
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_F_a_O_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 5,
+        "y": 20
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_F_a_O_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 6,
+        "y": 20
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 4
+    },
+    {
+      "location_id": "A_WH_F_b_O_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 11,
+        "y": 20
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_F_b_O_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 12,
+        "y": 20
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_F_b_O_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 13,
+        "y": 20
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_F_b_O_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 14,
+        "y": 20
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 4
+    },
+    {
+      "location_id": "A_WH_B_c_O_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 23,
+        "y": 20
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "B",
+      "section_label": "Back",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_B_c_O_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 24,
+        "y": 20
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "B",
+      "section_label": "Back",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_B_c_O_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 25,
+        "y": 20
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "B",
+      "section_label": "Back",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_B_c_O_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 26,
+        "y": 20
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "B",
+      "section_label": "Back",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 4
+    },
+    {
+      "location_id": "A_WH_F_a_X_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 3,
+        "y": 19
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_F_a_X_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 4,
+        "y": 19
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_F_a_X_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 5,
+        "y": 19
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_F_a_X_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 6,
+        "y": 19
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 4
+    },
+    {
+      "location_id": "A_WH_F_b_X_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 11,
+        "y": 19
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_F_b_X_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 12,
+        "y": 19
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_F_b_X_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 13,
+        "y": 19
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_F_b_X_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 14,
+        "y": 19
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 4
+    },
+    {
+      "location_id": "A_WH_B_c_X_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 23,
+        "y": 19
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "B",
+      "section_label": "Back",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_B_a_X_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 24,
+        "y": 19
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "B",
+      "section_label": "Back",
+      "part": "a",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_B_c_X_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 25,
+        "y": 19
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "B",
+      "section_label": "Back",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_B_c_X_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 26,
+        "y": 19
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "B",
+      "section_label": "Back",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 4
+    }
+  ],
+  "ml_nodes": [
+    {
+      "location_id": "A_ML_a_R1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 4,
+        "y": 24
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "a",
+      "rack_type": "R",
+      "rack_type_label": "Recall",
+      "slot": 1
+    },
+    {
+      "location_id": "A_ML_a_P1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 6,
+        "y": 24
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "a",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 1
+    },
+    {
+      "location_id": "A_ML_a_P2",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 7,
+        "y": 24
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "a",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 2
+    },
+    {
+      "location_id": "A_ML_b_R1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 10,
+        "y": 24
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "b",
+      "rack_type": "R",
+      "rack_type_label": "Recall",
+      "slot": 1
+    },
+    {
+      "location_id": "A_ML_b_P1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 12,
+        "y": 24
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "b",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 1
+    },
+    {
+      "location_id": "A_ML_b_P2",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 13,
+        "y": 24
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "b",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 2
+    },
+    {
+      "location_id": "A_ML_c_R1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 16,
+        "y": 24
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "c",
+      "rack_type": "R",
+      "rack_type_label": "Recall",
+      "slot": 1
+    },
+    {
+      "location_id": "A_ML_c_P1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 18,
+        "y": 24
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "c",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 1
+    },
+    {
+      "location_id": "A_ML_c_P2",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 19,
+        "y": 24
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "c",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 2
+    }
+  ],
+  "ps_nodes": [
+    {
+      "location_id": "A_PS_TypeA_1",
+      "product": "A",
+      "zone": "PS",
+      "coordinates": {
+        "x": 17,
+        "y": 20
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "amr_type": "TypeA",
+      "slot": 1
+    },
+    {
+      "location_id": "A_PS_TypeA_2",
+      "product": "A",
+      "zone": "PS",
+      "coordinates": {
+        "x": 18,
+        "y": 20
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "amr_type": "TypeA",
+      "slot": 2
+    },
+    {
+      "location_id": "A_PS_TypeB_1",
+      "product": "A",
+      "zone": "PS",
+      "coordinates": {
+        "x": 19,
+        "y": 20
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "amr_type": "TypeB",
+      "slot": 1
+    }
+  ],
+  "cell_map": {
+    "16,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "38,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "7,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "18,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "29,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "20,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "31,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "21,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "34,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "3,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "14,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "12,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "22,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "23,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "5,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "27,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "36,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "9,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "11,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "33,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "13,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "24,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "25,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "35,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "15,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "26,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "16,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "29,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "38,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "6,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "20,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "7,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "18,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "31,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "22,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "4,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "37,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "17,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "28,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "8,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "19,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "9,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "30,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "10,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "24,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "11,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "32,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "33,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "35,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "15,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "26,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "13,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "6,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "21,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "12,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "23,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "34,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "3,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "14,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "4,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "36,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "37,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "5,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "19,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "27,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "17,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "28,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "30,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "10,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "32,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "8,25": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    },
+    "25,26": {
+      "region_id": "region_1",
+      "type": "Manufacturing Line",
+      "name": "Manufacturing Line"
+    }
+  }
+}

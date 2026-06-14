@@ -1,0 +1,3872 @@
+{
+  "metadata": {
+    "created": "2026-05-13T22:11:03.354524",
+    "grid": {
+      "width": 60,
+      "height": 40
+    },
+    "cell_size_unit": 1,
+    "id_format": {
+      "wh": "{product}_{zone}_{section}_{part}_{rack_type}_{slot}",
+      "ml": "{product}_{zone}_{part}_{rack_type}{slot}",
+      "ps": "{product}_{zone}_{amr_type}_{slot}"
+    },
+    "rack_type_legend": {
+      "O": "O",
+      "X": "X"
+    },
+    "ml_node_type_legend": {
+      "R": "Recall",
+      "P": "Process"
+    },
+    "total_regions": 1,
+    "total_wh_nodes": 149,
+    "total_ml_nodes": 15,
+    "total_ps_nodes": 4
+  },
+  "regions": [
+    {
+      "id": "region_1",
+      "name": "line",
+      "type": "aisle",
+      "color": "#80ff80",
+      "cell_count": 112,
+      "bounding_box": {
+        "x_min": 2,
+        "y_min": 33,
+        "x_max": 57,
+        "y_max": 34,
+        "width": 56,
+        "height": 2
+      },
+      "cells": [
+        [
+          2,
+          33
+        ],
+        [
+          2,
+          34
+        ],
+        [
+          3,
+          33
+        ],
+        [
+          3,
+          34
+        ],
+        [
+          4,
+          33
+        ],
+        [
+          4,
+          34
+        ],
+        [
+          5,
+          33
+        ],
+        [
+          5,
+          34
+        ],
+        [
+          6,
+          33
+        ],
+        [
+          6,
+          34
+        ],
+        [
+          7,
+          33
+        ],
+        [
+          7,
+          34
+        ],
+        [
+          8,
+          33
+        ],
+        [
+          8,
+          34
+        ],
+        [
+          9,
+          33
+        ],
+        [
+          9,
+          34
+        ],
+        [
+          10,
+          33
+        ],
+        [
+          10,
+          34
+        ],
+        [
+          11,
+          33
+        ],
+        [
+          11,
+          34
+        ],
+        [
+          12,
+          33
+        ],
+        [
+          12,
+          34
+        ],
+        [
+          13,
+          33
+        ],
+        [
+          13,
+          34
+        ],
+        [
+          14,
+          33
+        ],
+        [
+          14,
+          34
+        ],
+        [
+          15,
+          33
+        ],
+        [
+          15,
+          34
+        ],
+        [
+          16,
+          33
+        ],
+        [
+          16,
+          34
+        ],
+        [
+          17,
+          33
+        ],
+        [
+          17,
+          34
+        ],
+        [
+          18,
+          33
+        ],
+        [
+          18,
+          34
+        ],
+        [
+          19,
+          33
+        ],
+        [
+          19,
+          34
+        ],
+        [
+          20,
+          33
+        ],
+        [
+          20,
+          34
+        ],
+        [
+          21,
+          33
+        ],
+        [
+          21,
+          34
+        ],
+        [
+          22,
+          33
+        ],
+        [
+          22,
+          34
+        ],
+        [
+          23,
+          33
+        ],
+        [
+          23,
+          34
+        ],
+        [
+          24,
+          33
+        ],
+        [
+          24,
+          34
+        ],
+        [
+          25,
+          33
+        ],
+        [
+          25,
+          34
+        ],
+        [
+          26,
+          33
+        ],
+        [
+          26,
+          34
+        ],
+        [
+          27,
+          33
+        ],
+        [
+          27,
+          34
+        ],
+        [
+          28,
+          33
+        ],
+        [
+          28,
+          34
+        ],
+        [
+          29,
+          33
+        ],
+        [
+          29,
+          34
+        ],
+        [
+          30,
+          33
+        ],
+        [
+          30,
+          34
+        ],
+        [
+          31,
+          33
+        ],
+        [
+          31,
+          34
+        ],
+        [
+          32,
+          33
+        ],
+        [
+          32,
+          34
+        ],
+        [
+          33,
+          33
+        ],
+        [
+          33,
+          34
+        ],
+        [
+          34,
+          33
+        ],
+        [
+          34,
+          34
+        ],
+        [
+          35,
+          33
+        ],
+        [
+          35,
+          34
+        ],
+        [
+          36,
+          33
+        ],
+        [
+          36,
+          34
+        ],
+        [
+          37,
+          33
+        ],
+        [
+          37,
+          34
+        ],
+        [
+          38,
+          33
+        ],
+        [
+          38,
+          34
+        ],
+        [
+          39,
+          33
+        ],
+        [
+          39,
+          34
+        ],
+        [
+          40,
+          33
+        ],
+        [
+          40,
+          34
+        ],
+        [
+          41,
+          33
+        ],
+        [
+          41,
+          34
+        ],
+        [
+          42,
+          33
+        ],
+        [
+          42,
+          34
+        ],
+        [
+          43,
+          33
+        ],
+        [
+          43,
+          34
+        ],
+        [
+          44,
+          33
+        ],
+        [
+          44,
+          34
+        ],
+        [
+          45,
+          33
+        ],
+        [
+          45,
+          34
+        ],
+        [
+          46,
+          33
+        ],
+        [
+          46,
+          34
+        ],
+        [
+          47,
+          33
+        ],
+        [
+          47,
+          34
+        ],
+        [
+          48,
+          33
+        ],
+        [
+          48,
+          34
+        ],
+        [
+          49,
+          33
+        ],
+        [
+          49,
+          34
+        ],
+        [
+          50,
+          33
+        ],
+        [
+          50,
+          34
+        ],
+        [
+          51,
+          33
+        ],
+        [
+          51,
+          34
+        ],
+        [
+          52,
+          33
+        ],
+        [
+          52,
+          34
+        ],
+        [
+          53,
+          33
+        ],
+        [
+          53,
+          34
+        ],
+        [
+          54,
+          33
+        ],
+        [
+          54,
+          34
+        ],
+        [
+          55,
+          33
+        ],
+        [
+          55,
+          34
+        ],
+        [
+          56,
+          33
+        ],
+        [
+          56,
+          34
+        ],
+        [
+          57,
+          33
+        ],
+        [
+          57,
+          34
+        ]
+      ]
+    }
+  ],
+  "wh_locations": [
+    {
+      "location_id": "A_WH_F_a_O_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 3,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_F_a_O_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 4,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_F_a_O_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 5,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_F_a_O_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 4,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 4
+    },
+    {
+      "location_id": "A_WH_F_a_O_5",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 5,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 5
+    },
+    {
+      "location_id": "A_WH_F_a_O_6",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 3,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 6
+    },
+    {
+      "location_id": "A_WH_F_a_O_7",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 4,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 7
+    },
+    {
+      "location_id": "A_WH_F_a_O_8",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 5,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 8
+    },
+    {
+      "location_id": "A_WH_F_a_X_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 3,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_F_a_X_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 4,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_F_a_X_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 5,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_F_a_X_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 3,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 4
+    },
+    {
+      "location_id": "A_WH_F_a_X_5",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 4,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 5
+    },
+    {
+      "location_id": "A_WH_F_a_X_6",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 5,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "a",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 6
+    },
+    {
+      "location_id": "A_WH_F_b_O_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 10,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_F_b_O_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 11,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_F_b_O_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 12,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_F_b_O_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 13,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 4
+    },
+    {
+      "location_id": "A_WH_F_b_O_5",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 14,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 5
+    },
+    {
+      "location_id": "A_WH_F_b_O_6",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 15,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 6
+    },
+    {
+      "location_id": "A_WH_F_b_O_7",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 16,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 7
+    },
+    {
+      "location_id": "A_WH_F_b_O_8",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 17,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 8
+    },
+    {
+      "location_id": "A_WH_F_b_O_14",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 17,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 14
+    },
+    {
+      "location_id": "A_WH_F_b_O_9",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 11,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 9
+    },
+    {
+      "location_id": "A_WH_F_b_O_10",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 12,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 10
+    },
+    {
+      "location_id": "A_WH_F_b_O_11",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 13,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 11
+    },
+    {
+      "location_id": "A_WH_F_b_O_12",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 14,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 12
+    },
+    {
+      "location_id": "A_WH_F_b_O_13",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 15,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 13
+    },
+    {
+      "location_id": "A_WH_F_b_O_15",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 10,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 15
+    },
+    {
+      "location_id": "A_WH_F_b_O_16",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 11,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 16
+    },
+    {
+      "location_id": "A_WH_F_b_O_17",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 12,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 17
+    },
+    {
+      "location_id": "A_WH_F_b_O_18",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 13,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 18
+    },
+    {
+      "location_id": "A_WH_F_b_O_19",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 14,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 19
+    },
+    {
+      "location_id": "A_WH_F_b_O_20",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 15,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 20
+    },
+    {
+      "location_id": "A_WH_F_b_O_21",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 16,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 21
+    },
+    {
+      "location_id": "A_WH_F_b_O_22",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 17,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 22
+    },
+    {
+      "location_id": "A_WH_F_b_X_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 10,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_F_b_X_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 11,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_F_b_X_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 12,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_F_b_X_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 13,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 4
+    },
+    {
+      "location_id": "A_WH_F_b_X_5",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 14,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 5
+    },
+    {
+      "location_id": "A_WH_F_b_X_6",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 15,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 6
+    },
+    {
+      "location_id": "A_WH_F_b_X_7",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 16,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 7
+    },
+    {
+      "location_id": "A_WH_F_b_X_8",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 17,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 8
+    },
+    {
+      "location_id": "A_WH_F_b_X_9",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 10,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 9
+    },
+    {
+      "location_id": "A_WH_F_b_X_10",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 11,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 10
+    },
+    {
+      "location_id": "A_WH_F_b_X_11",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 12,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 11
+    },
+    {
+      "location_id": "A_WH_F_b_X_12",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 13,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 12
+    },
+    {
+      "location_id": "A_WH_F_b_X_13",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 14,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 13
+    },
+    {
+      "location_id": "A_WH_F_b_X_14",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 15,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 14
+    },
+    {
+      "location_id": "A_WH_F_b_X_15",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 16,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 15
+    },
+    {
+      "location_id": "A_WH_F_b_X_16",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 17,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "b",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 16
+    },
+    {
+      "location_id": "A_WH_F_c_O_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 22,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_F_c_O_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 23,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_F_c_O_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 24,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_F_c_O_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 25,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 4
+    },
+    {
+      "location_id": "A_WH_F_c_O_5",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 26,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 5
+    },
+    {
+      "location_id": "A_WH_F_c_O_6",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 27,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 6
+    },
+    {
+      "location_id": "A_WH_F_c_O_7",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 28,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 7
+    },
+    {
+      "location_id": "A_WH_F_c_O_8",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 22,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 8
+    },
+    {
+      "location_id": "A_WH_F_c_O_9",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 24,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 9
+    },
+    {
+      "location_id": "A_WH_F_c_O_10",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 25,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 10
+    },
+    {
+      "location_id": "A_WH_F_c_O_11",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 26,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 11
+    },
+    {
+      "location_id": "A_WH_F_c_O_12",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 28,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 12
+    },
+    {
+      "location_id": "A_WH_F_c_O_13",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 22,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 13
+    },
+    {
+      "location_id": "A_WH_F_c_O_14",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 23,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 14
+    },
+    {
+      "location_id": "A_WH_F_c_O_15",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 24,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 15
+    },
+    {
+      "location_id": "A_WH_F_c_O_16",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 25,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 16
+    },
+    {
+      "location_id": "A_WH_F_c_O_17",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 26,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 17
+    },
+    {
+      "location_id": "A_WH_F_c_O_18",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 27,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 18
+    },
+    {
+      "location_id": "A_WH_F_c_O_19",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 28,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 19
+    },
+    {
+      "location_id": "A_WH_F_c_X_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 22,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_F_c_X_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 23,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_F_c_X_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 24,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_F_c_X_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 25,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 4
+    },
+    {
+      "location_id": "A_WH_F_c_X_5",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 26,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 5
+    },
+    {
+      "location_id": "A_WH_F_c_X_6",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 27,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 6
+    },
+    {
+      "location_id": "A_WH_F_c_X_7",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 28,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 7
+    },
+    {
+      "location_id": "A_WH_F_c_X_8",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 22,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 8
+    },
+    {
+      "location_id": "A_WH_F_c_X_9",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 23,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 9
+    },
+    {
+      "location_id": "A_WH_F_c_X_10",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 24,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 10
+    },
+    {
+      "location_id": "A_WH_F_c_X_11",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 25,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 11
+    },
+    {
+      "location_id": "A_WH_F_c_X_12",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 26,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 12
+    },
+    {
+      "location_id": "A_WH_F_c_X_13",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 27,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 13
+    },
+    {
+      "location_id": "A_WH_F_c_X_14",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 28,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "c",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 14
+    },
+    {
+      "location_id": "A_WH_F_e_O_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 33,
+        "y": 27
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_F_e_O_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 34,
+        "y": 27
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_F_e_O_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 35,
+        "y": 27
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_F_e_O_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 36,
+        "y": 27
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 4
+    },
+    {
+      "location_id": "A_WH_F_e_O_5",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 33,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 5
+    },
+    {
+      "location_id": "A_WH_F_e_O_6",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 34,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 6
+    },
+    {
+      "location_id": "A_WH_F_e_O_7",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 35,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 7
+    },
+    {
+      "location_id": "A_WH_F_e_O_8",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 36,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 8
+    },
+    {
+      "location_id": "A_WH_F_e_X_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 33,
+        "y": 24
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_F_e_X_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 34,
+        "y": 24
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_F_e_X_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 35,
+        "y": 24
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_F_e_X_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 36,
+        "y": 24
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 4
+    },
+    {
+      "location_id": "A_WH_F_e_X_5",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 33,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 5
+    },
+    {
+      "location_id": "A_WH_F_e_X_6",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 34,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 6
+    },
+    {
+      "location_id": "A_WH_F_e_X_7",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 35,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 7
+    },
+    {
+      "location_id": "A_WH_F_e_X_8",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 36,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "e",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 8
+    },
+    {
+      "location_id": "A_WH_F_d_O_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 45,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_F_d_O_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 46,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_F_d_O_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 47,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_F_d_O_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 48,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 4
+    },
+    {
+      "location_id": "A_WH_F_d_O_5",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 49,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 5
+    },
+    {
+      "location_id": "A_WH_F_d_O_6",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 50,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 6
+    },
+    {
+      "location_id": "A_WH_F_d_O_7",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 51,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 7
+    },
+    {
+      "location_id": "A_WH_F_d_O_8",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 52,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 8
+    },
+    {
+      "location_id": "A_WH_F_d_O_9",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 53,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 9
+    },
+    {
+      "location_id": "A_WH_F_d_O_10",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 54,
+        "y": 28
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 10
+    },
+    {
+      "location_id": "A_WH_F_d_O_11",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 45,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 11
+    },
+    {
+      "location_id": "A_WH_F_d_O_12",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 46,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 12
+    },
+    {
+      "location_id": "A_WH_F_d_O_13",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 48,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 13
+    },
+    {
+      "location_id": "A_WH_F_d_O_14",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 49,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 14
+    },
+    {
+      "location_id": "A_WH_F_d_O_15",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 50,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 15
+    },
+    {
+      "location_id": "A_WH_F_d_O_16",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 51,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 16
+    },
+    {
+      "location_id": "A_WH_F_d_O_17",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 53,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 17
+    },
+    {
+      "location_id": "A_WH_F_d_O_18",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 54,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 18
+    },
+    {
+      "location_id": "A_WH_F_d_O_19",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 45,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 19
+    },
+    {
+      "location_id": "A_WH_F_d_O_20",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 46,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 20
+    },
+    {
+      "location_id": "A_WH_F_d_O_21",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 47,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 21
+    },
+    {
+      "location_id": "A_WH_F_d_O_22",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 48,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 22
+    },
+    {
+      "location_id": "A_WH_F_d_O_23",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 49,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 23
+    },
+    {
+      "location_id": "A_WH_F_d_O_24",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 50,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 24
+    },
+    {
+      "location_id": "A_WH_F_d_O_25",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 51,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 25
+    },
+    {
+      "location_id": "A_WH_F_d_O_26",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 52,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 26
+    },
+    {
+      "location_id": "A_WH_F_d_O_27",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 53,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 27
+    },
+    {
+      "location_id": "A_WH_F_d_O_28",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 54,
+        "y": 25
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "O",
+      "rack_type_label": "O",
+      "slot": 28
+    },
+    {
+      "location_id": "A_WH_F_d_X_1",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 45,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 1
+    },
+    {
+      "location_id": "A_WH_F_d_X_2",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 46,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 2
+    },
+    {
+      "location_id": "A_WH_F_d_X_3",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 47,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 3
+    },
+    {
+      "location_id": "A_WH_F_d_X_4",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 48,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 4
+    },
+    {
+      "location_id": "A_WH_F_d_X_5",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 49,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 5
+    },
+    {
+      "location_id": "A_WH_F_d_X_6",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 50,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 6
+    },
+    {
+      "location_id": "A_WH_F_d_X_7",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 51,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 7
+    },
+    {
+      "location_id": "A_WH_F_d_X_8",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 52,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 8
+    },
+    {
+      "location_id": "A_WH_F_d_X_9",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 53,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 9
+    },
+    {
+      "location_id": "A_WH_F_d_X_10",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 54,
+        "y": 23
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 10
+    },
+    {
+      "location_id": "A_WH_F_d_X_11",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 45,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 11
+    },
+    {
+      "location_id": "A_WH_F_d_X_12",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 46,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 12
+    },
+    {
+      "location_id": "A_WH_F_d_X_13",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 47,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 13
+    },
+    {
+      "location_id": "A_WH_F_d_X_14",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 48,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 14
+    },
+    {
+      "location_id": "A_WH_F_d_X_15",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 49,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 15
+    },
+    {
+      "location_id": "A_WH_F_d_X_16",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 50,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 16
+    },
+    {
+      "location_id": "A_WH_F_d_X_17",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 51,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 17
+    },
+    {
+      "location_id": "A_WH_F_d_X_18",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 52,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 18
+    },
+    {
+      "location_id": "A_WH_F_d_X_19",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 53,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 19
+    },
+    {
+      "location_id": "A_WH_F_d_X_20",
+      "product": "A",
+      "zone": "WH",
+      "coordinates": {
+        "x": 54,
+        "y": 22
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "section": "F",
+      "section_label": "Front",
+      "part": "d",
+      "rack_type": "X",
+      "rack_type_label": "X",
+      "slot": 20
+    }
+  ],
+  "ml_nodes": [
+    {
+      "location_id": "A_ML_a_P1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 4,
+        "y": 32
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "a",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 1
+    },
+    {
+      "location_id": "A_ML_a_P2",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 5,
+        "y": 32
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "a",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 2
+    },
+    {
+      "location_id": "A_ML_a_R1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 6,
+        "y": 32
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "a",
+      "rack_type": "R",
+      "rack_type_label": "Recall",
+      "slot": 1
+    },
+    {
+      "location_id": "A_ML_b_P1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 10,
+        "y": 32
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "b",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 1
+    },
+    {
+      "location_id": "A_ML_b_P2",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 11,
+        "y": 32
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "b",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 2
+    },
+    {
+      "location_id": "A_ML_b_R1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 12,
+        "y": 32
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "b",
+      "rack_type": "R",
+      "rack_type_label": "Recall",
+      "slot": 1
+    },
+    {
+      "location_id": "A_ML_c_P1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 33,
+        "y": 32
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "c",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 1
+    },
+    {
+      "location_id": "A_ML_c_P2",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 34,
+        "y": 32
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "c",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 2
+    },
+    {
+      "location_id": "A_ML_c_R1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 35,
+        "y": 32
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "c",
+      "rack_type": "R",
+      "rack_type_label": "Recall",
+      "slot": 1
+    },
+    {
+      "location_id": "A_ML_e_P1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 22,
+        "y": 32
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "e",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 1
+    },
+    {
+      "location_id": "A_ML_e_P2",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 23,
+        "y": 32
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "e",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 2
+    },
+    {
+      "location_id": "A_ML_e_R1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 24,
+        "y": 32
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "e",
+      "rack_type": "R",
+      "rack_type_label": "Recall",
+      "slot": 1
+    },
+    {
+      "location_id": "A_ML_d_P1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 45,
+        "y": 32
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "d",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 1
+    },
+    {
+      "location_id": "A_ML_d_P2",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 46,
+        "y": 32
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "d",
+      "rack_type": "P",
+      "rack_type_label": "Process",
+      "slot": 2
+    },
+    {
+      "location_id": "A_ML_d_R1",
+      "product": "A",
+      "zone": "ML",
+      "coordinates": {
+        "x": 47,
+        "y": 32
+      },
+      "access_node_id": null,
+      "occupied": 0,
+      "part": "d",
+      "rack_type": "R",
+      "rack_type_label": "Recall",
+      "slot": 1
+    }
+  ],
+  "ps_nodes": [
+    {
+      "location_id": "A_PS_TypeA_1",
+      "product": "A",
+      "zone": "PS",
+      "coordinates": {
+        "x": 39,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "amr_type": "TypeA",
+      "slot": 1
+    },
+    {
+      "location_id": "A_PS_TypeA_2",
+      "product": "A",
+      "zone": "PS",
+      "coordinates": {
+        "x": 40,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "amr_type": "TypeA",
+      "slot": 2
+    },
+    {
+      "location_id": "A_PS_TypeA_3",
+      "product": "A",
+      "zone": "PS",
+      "coordinates": {
+        "x": 41,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "amr_type": "TypeA",
+      "slot": 3
+    },
+    {
+      "location_id": "A_PS_TypeA_4",
+      "product": "A",
+      "zone": "PS",
+      "coordinates": {
+        "x": 42,
+        "y": 26
+      },
+      "access_node_id": null,
+      "occupied": 1,
+      "amr_type": "TypeA",
+      "slot": 4
+    }
+  ],
+  "cell_map": {
+    "10,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "13,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "24,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "35,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "39,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "12,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "23,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "37,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "51,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "27,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "41,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "52,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "25,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "53,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "29,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "40,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "54,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "3,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "14,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "42,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "2,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "16,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "46,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "57,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "6,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "20,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "31,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "4,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "43,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "19,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "8,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "30,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "33,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "44,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "48,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "21,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "36,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "47,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "50,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "10,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "38,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "49,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "12,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "23,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "27,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "11,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "25,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "39,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "15,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "40,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "26,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "29,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "55,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "17,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "28,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "42,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "2,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "32,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "46,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "57,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "6,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "4,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "34,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "45,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "56,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "5,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "8,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "19,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "30,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "7,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "18,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "21,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "22,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "36,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "47,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "9,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "51,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "48,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "13,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "24,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "35,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "38,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "49,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "53,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "37,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "11,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "41,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "52,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "15,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "26,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "54,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "3,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "14,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "17,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "28,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "32,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "43,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "16,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "55,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "20,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "31,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "34,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "45,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "56,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "5,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "33,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "44,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "7,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "18,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "22,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "9,33": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    },
+    "50,34": {
+      "region_id": "region_1",
+      "type": "aisle",
+      "name": "line"
+    }
+  }
+}
